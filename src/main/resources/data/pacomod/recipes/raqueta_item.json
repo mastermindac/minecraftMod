@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "pacomod:pelota_tennis_item"
+    },
+    "B": {
+      "item": "pacomod:balonbaloncesto_item"
+    }
+  },
+  "pattern": [
+    "##",
+    "#B"
+  ],
+  "result": {
+    "item": "pacomod:raqueta_item"
+  }
+}

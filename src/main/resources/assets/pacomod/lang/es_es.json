@@ -1,0 +1,23 @@
+{
+  "item.pacomod.balonbaloncesto_item" : "Pelota baloncesto",
+  "item.pacomod.balonfutbol_item" : "Pelota futbol",
+  "item.pacomod.balonrugby_item" : "Pelota rugby",
+  "item.pacomod.bolabolos_item" : "Bolo",
+  "item.pacomod.pelota_tennis_item" : "Pelota tennis",
+  "item.pacomod.barritaenergetica_item" : "Barrita energetica",
+  "item.pacomod.bebidaenergetica_item" : "Bebida energetica",
+  "item.pacomod.liquido_item" : "Liquido",
+  "item.pacomod.hacha_item" : "Hacha deportiva",
+  "item.pacomod.pico_item" : "Pico deportivo",
+  "item.pacomod.pala_item" : "Pala deportiva",
+  "item.pacomod.raqueta_item" : "Raqueta espada",
+  "item_group.pacomod.deportes_tab" : "Deportes Tab",
+  "block.pacomod.gradas_block" : "Bloque gradas",
+  "block.pacomod.salto_block" : "Salto block",
+  "block.pacomod.balon_football_block" : "Bloque balon football",
+  "block.pacomod.balon_baloncesto_block" : "Bloque balon baloncesto",
+  "block.pacomod.reja_block" : "Reja block",
+  "block.pacomod.palo_canasta_block" : "Palo canasta block",
+  "block.pacomod.tablero_canasta_block" : "Tablero canasta block",
+  "block.pacomod.canasta_block" : "Canasta block"
+}

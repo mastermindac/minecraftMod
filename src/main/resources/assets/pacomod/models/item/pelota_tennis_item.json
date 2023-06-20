@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pacomod:item/pelota_tennis_item"
+  }
+}

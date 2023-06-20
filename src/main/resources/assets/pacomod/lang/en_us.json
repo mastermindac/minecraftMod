@@ -1,0 +1,12 @@
+{
+  "item.pacomod.balonbaloncesto_item" : "Basket ball",
+  "item.pacomod.balonfutbol_item" : "European football",
+  "item.pacomod.balonrugby_item" : "Rugby ball",
+  "item.pacomod.bolabolos_item" : "Bowling ball",
+  "item.pacomod.barritaenergetica_item" : "Energy bar",
+  "item.pacomod.bebidaenergetica_item" : "Energy drink",
+  "item.pacomod.liquido_item" : "Liquid port",
+  "item.pacomod.hacha_item" : "Sport axe",
+  "item_group.pacomod.deportes_tab" : "Sorts Tab",
+  "block.pacomod.gradas_block" : "Steps block"
+}

@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "pacomod:block/tablero_canasta_block",
+		"particle": "pacomod:block/tablero_canasta_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [4, 0, 4.5, 4], "texture": "#0"},
+				"south": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"west": {"uv": [4, 4, 4.5, 8], "texture": "#0"},
+				"up": {"uv": [8.5, 0.5, 4.5, 0], "texture": "#0"},
+				"down": {"uv": [8.5, 0.5, 4.5, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"scale": [0.78125, 0.88086, 1]
+		},
+		"fixed": {
+			"translation": [-4.75, 1.5, 0]
+		}
+	}
+}
